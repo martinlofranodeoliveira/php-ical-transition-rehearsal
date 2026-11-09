@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lofrano Tecnologia//iCal Rehearsal Fixture 1.0//EN
+BEGIN:VEVENT
+UID:exdate-daily-006@lofrano.com.br
+DTSTART;TZID=America/New_York:20260601T100000
+DURATION:PT45M
+RRULE:FREQ=DAILY;COUNT=5
+EXDATE;TZID=America/New_York:20260603T100000
+SUMMARY:Team Sync with Holiday Exception
+END:VEVENT
+END:VCALENDAR

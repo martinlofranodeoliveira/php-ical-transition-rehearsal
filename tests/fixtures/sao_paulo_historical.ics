@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lofrano Tecnologia//iCal Rehearsal Fixture 1.0//EN
+BEGIN:VEVENT
+UID:sao-paulo-hist-005@lofrano.com.br
+DTSTART;TZID=America/Sao_Paulo:20180216T233000
+DURATION:PT1H
+RRULE:FREQ=DAILY;COUNT=4
+SUMMARY:Historical Midnight Sync SP
+END:VEVENT
+END:VCALENDAR

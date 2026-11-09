@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lofrano Tecnologia//iCal Rehearsal Fixture 1.0//EN
+BEGIN:VEVENT
+UID:lord-howe-30min-004@lofrano.com.br
+DTSTART;TZID=Australia/Lord_Howe:20260403T014500
+DURATION:PT1H
+RRULE:FREQ=DAILY;COUNT=4
+SUMMARY:Island Logistics Daily
+END:VEVENT
+END:VCALENDAR

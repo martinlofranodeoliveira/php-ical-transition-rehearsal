@@ -1,0 +1,26 @@
+{
+    "name": "lofrano/ical-transition-rehearsal",
+    "description": "Bounded iCalendar recurrence rehearsal with Sabre VObject, native timezone resolution, and explicit DST gap/fold policies",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lofrano Tecnologia",
+            "email": "contato@lofrano.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "sabre/vobject": "^4.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lofrano\\IcalRehearsal\\": "src/"
+        }
+    },
+    "bin": [
+        "bin/ical-rehearsal.php"
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

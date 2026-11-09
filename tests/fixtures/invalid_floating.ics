@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lofrano Tecnologia//iCal Rehearsal Fixture 1.0//EN
+BEGIN:VEVENT
+UID:invalid-floating-008@lofrano.com.br
+DTSTART:20260301T100000
+DURATION:PT1H
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:Invalid Floating Local Time
+END:VEVENT
+END:VCALENDAR

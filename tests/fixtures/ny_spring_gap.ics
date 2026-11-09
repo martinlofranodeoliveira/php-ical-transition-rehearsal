@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lofrano Tecnologia//iCal Rehearsal Fixture 1.0//EN
+BEGIN:VEVENT
+UID:ny-spring-gap-002@lofrano.com.br
+DTSTART;TZID=America/New_York:20260306T023000
+DURATION:PT30M
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:Early Morning Batch Run
+END:VEVENT
+END:VCALENDAR
